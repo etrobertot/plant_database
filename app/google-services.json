@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097452298386",
+    "project_id": "plant-9450e",
+    "storage_bucket": "plant-9450e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097452298386:android:0e5a101a99a8a61539064b",
+        "android_client_info": {
+          "package_name": "com.etrobertot.plant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDictBRY7xYaBC5iJZknbtl5sjl3EvIqfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
